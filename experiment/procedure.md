@@ -33,21 +33,20 @@ $z_{1}$ = ....................... cm  <br> $z_{2}$ = ................ cm <br>
    <table style="width: 700px; margin: 0 auto; text-align: center;">
     <tr>
       <td><img src="./images/figure4.jpg" alt="Figure 4" width="300"></td>
-      <td><img src="./imaages/figure5.jpg" alt="Figure 5" width="300"></td>
+      <td><img src="./images/figure5.jpg" alt="Figure 5" width="300"></td>
     </tr>
-    <tr>
- 
-      <td>
-            <p>1/e<sup>2</sup> of maximum intensity,Ie =................ mA</p>
-            <p><span style="font-size: 12px;">&nbsp;Diameter of the beam corresponds to I</span><sub>e, </sub><span style="font-size: 12px;">&nbsp;d</span><sub><span style="font-size: 12px;">1</span></sub><span style="font-size: 12px;">= ..................mm</span></p>
-    </td>
-
-        <td>
-            <p><span style="font-size: 12px;">1/e<sup>2</sup> of maximum intensity,Ie =................ mA</span></p>
-            <p><span style="font-size: 12px;">&nbsp;Diameter of the beam corresponds to I</span><sub>e,&nbsp;</sub><span style="font-size: 12px;">&nbsp;d</span><sub><span style="font-size: 12px;">2</span></sub><span style="font-size: 12px;">= ..................mm</span></p>
-            </td>
+<tr>
+  <td>
+  <p>1/e<sup>2</sup> of maximum intensity,Ie =................ mA</p>
+            <p>Diameter of the beam corresponds to I<sub>e</sub>, d<sub>1</sub>= ..................mm</p>
+  </td>
+     <td>
+      <p>1/e<sup>2</sup> of maximum intensity,Ie =................ mA</p>
+            <p>Diameter of the beam corresponds to I<sub>e</sub>,  d<sub>2</sub>= ..................mm</p>
+        
+     </td>
+  </tr>
     
-    </tr>
   </table>
 </div>
 
