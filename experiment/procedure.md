@@ -48,5 +48,19 @@ Diameter of the beam corresponds to I<sub>e</sub>,  d<sub>2</sub>= .............
   </table>
 </div>
 
+ Divergence angle = $(d_{1}-d_{2})/(z_{1}-z_{2}$ = .................. m rad
+
+### Performing the simulator
+- The experimental arrangement is shown in the simulator. A side view and top view of the set up is given in the inset.
+- The **start** button enables the user to start the experiment.
+- From the combo box, select the desired laser source.
+- Then fix a detector distance, say 100 cm, using the slider **Detector distance**, z.
+- The z distance can be varied from 50 cm to 200 cm.
+- For a particular z distance, change the detector distance x, from minimum to maximum, using the slider **Detector distance**, x. The micrometer distances and the corresponding output currents are noted. The x distances can be read from the zoomed view of the micrometer and the current can be note from the digital display of the output device.
+- Draw the graph and calculate the beam divergence and spot size using the steps given above.
+- **Show graph** button enables the user to view the beam profile.
+- Using the option **Show result**, one can verify the result obtained after doing the experiment.
+
+ 
 
 
