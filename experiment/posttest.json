@@ -2,37 +2,39 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "What is the minimum value of the spot size of a laser beam along the beam axis called?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Confocal parameter",
+        "b": "Rayleigh range",
+        "c": "Beam waist",
+        "d": "Beam width"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The relationship between beam width and divergence is due to:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Interference",
+        "b": "Refraction",
+        "c": "Diffraction",
+        "d": "Dispersion"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The constant 'eta' is the characteristic impedance of the medium in which the laser beam is propagating. What isit's value for free space?",
+      "answers": {
+        "a": "377 ohm",
+        "b": "277 ohm",
+        "c": "255 ohm",
+        "d": "355 ohm"
+      },
+      
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
