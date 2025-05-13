@@ -37,14 +37,12 @@ $z_{1}$ = ....................... cm  <br> $z_{2}$ = ................ cm <br>
     </tr>
 <tr>
   <td>
-  <p>1/e<sup>2</sup> of maximum intensity,Ie =................ mA</p>
-            <p>Diameter of the beam corresponds to I<sub>e</sub>, d<sub>1</sub>= ..................mm</p>
+  1/e<sup>2</sup> of maximum intensity,Ie =................ mA<br>
+Diameter of the beam corresponds to I<sub>e</sub>, d<sub>1</sub>= ..................mm
   </td>
-     <td>
-      <p>1/e<sup>2</sup> of maximum intensity,Ie =................ mA</p>
-            <p>Diameter of the beam corresponds to I<sub>e</sub>,  d<sub>2</sub>= ..................mm</p>
-        
-     </td>
+     <td> 1/e<sup>2</sup> of maximum intensity,Ie =................ mA<br>
+Diameter of the beam corresponds to I<sub>e</sub>,  d<sub>2</sub>= ..................mm
+  </td>
   </tr>
     
   </table>
