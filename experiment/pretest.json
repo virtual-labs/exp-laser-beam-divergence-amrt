@@ -2,29 +2,24 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "What is LASER ?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Light Amplification by Stimulated Emission of Radiation",
+        "b": "Linear Amplification by Spontaneous Emission of Rays",
+        "c": "Light and Sound Energy Radiation",
+        "d": "Light Amplification by Spontaneous Emission of Rays"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "As distance increases, what happens to the intensity of the laser beam?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Increases",
+        "b": "Decreases",
+        "c": "No change",
+        "d": "Increase then decrease"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
