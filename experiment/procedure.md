@@ -48,7 +48,7 @@ Diameter of the beam corresponds to I<sub>e</sub>,  d<sub>2</sub>= .............
   </table>
 </div>
 
- Divergence angle = $(d_{1}-d_{2})/(z_{1}-z_{2}$ = .................. m rad
+ Divergence angle = $(d_{1}-d_{2})/(z_{1}-z_{2})$ = .................. m rad
 
 ### Performing the simulator
 - The experimental arrangement is shown in the simulator. A side view and top view of the set up is given in the inset.
